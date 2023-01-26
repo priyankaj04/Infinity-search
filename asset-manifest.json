@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infinity-search/static/css/main.cd8d936f.css",
+    "main.js": "/Infinity-search/static/js/main.603c5077.js",
+    "index.html": "/Infinity-search/index.html",
+    "main.cd8d936f.css.map": "/Infinity-search/static/css/main.cd8d936f.css.map",
+    "main.603c5077.js.map": "/Infinity-search/static/js/main.603c5077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd8d936f.css",
+    "static/js/main.603c5077.js"
+  ]
+}
